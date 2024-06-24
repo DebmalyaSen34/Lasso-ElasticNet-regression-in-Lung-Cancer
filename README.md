@@ -58,13 +58,12 @@ The result of the notebook includes:
   * Visualizations such as correlation heatmaps, feature distributions, and ROC curves.
   * Model predictions on new test data:
     -  **Dataset:** GSE27262
-  ![Test Data 1](graphs/lasso_prediction_on_another_tests.png)
+        + ![Test Data 1](graphs/lasso_prediction_on_another_tests.png)
     - **Dataset:** GSE19804
-  ![Test Data 2](graphs/lasso_predictions_on_other_tests.png)
+        + ![Test Data 2](graphs/lasso_predictions_on_other_tests.png)
   * Performance of the model:
    - ![Model Performance](graphs/model_performace_plot.png)
    
-
 ## Conclusion
 This project demonstrates the application of machine learning to NSCLC data, providing insights into significant features and predictive modeling. The models developed can assist in early diagnosis and personalized treatment planning for NSCLC patients.
 
