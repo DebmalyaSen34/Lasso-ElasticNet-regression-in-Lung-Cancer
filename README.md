@@ -31,7 +31,7 @@ The analysis follows these main steps:
 5. **Visualization**: Visualizing the results and important features using libraries like Seaborn.
 
 ## Data
-The dataset used in this project includes clinical and demographic information of NSCLC patients. It contains features such as age, gender, smoking history, tumor characteristics, and treatment outcomes. The data is preprocessed to handle missing values and standardize the format for analysis.
+The dataset used in this project includes clinical information of NSCLC patients. It contains 54000 gene expresssion levels, tumor characteristics, and treatment outcomes. The data is preprocessed to handle missing values and standardize the format for analysis.
 
 ## Installation
 To run the notebook, you need to have Python 3 installed along with the required libraries. You can install the dependencies using pip:
