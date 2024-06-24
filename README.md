@@ -56,6 +56,8 @@ The result of the notebook includes:
   * Model performance metrics for each machine learning model.
   * Feature importance scores highlighting the most significant features for predicting NSCLC outcomes.
   * Visualizations such as correlation heatmaps, feature distributions, and ROC curves.
+Performance of the model:
+![Model Performance](graphs/model_performace_plot.png)
 
 ## Conclusion
 This project demonstrates the application of machine learning to NSCLC data, providing insights into significant features and predictive modeling. The models developed can assist in early diagnosis and personalized treatment planning for NSCLC patients.
