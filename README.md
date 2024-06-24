@@ -56,8 +56,14 @@ The result of the notebook includes:
   * Model performance metrics for each machine learning model.
   * Feature importance scores highlighting the most significant features for predicting NSCLC outcomes.
   * Visualizations such as correlation heatmaps, feature distributions, and ROC curves.
-Performance of the model:
-![Model Performance](graphs/model_performace_plot.png)
+  * Model predictions on new test data:
+    -  **Dataset:** GSE27262 ![image](https://github.com/DebmalyaSen34/Lasso-ElasticNet-regression-in-Lung-Cancer/assets/154492342/01d68a68-dcdd-4f37-b113-622c199465a5)
+  ![Test Data 1](graphs/lasso_prediction_on_another_tests.png)
+    - **Dataset:** GSE19804 ![image](https://github.com/DebmalyaSen34/Lasso-ElasticNet-regression-in-Lung-Cancer/assets/154492342/75058195-b96a-4df9-95dd-48af25b6bcac)
+  ![Test Data 2](graphs/lasso_predictions_on_other_tests.png)
+  * Performance of the model:
+   - ![Model Performance](graphs/model_performace_plot.png)
+   
 
 ## Conclusion
 This project demonstrates the application of machine learning to NSCLC data, providing insights into significant features and predictive modeling. The models developed can assist in early diagnosis and personalized treatment planning for NSCLC patients.
