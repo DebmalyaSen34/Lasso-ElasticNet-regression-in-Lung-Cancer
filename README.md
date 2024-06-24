@@ -69,11 +69,15 @@ Future improvements to this project could include:
 
 ## Project structure
 ```kotlin
-your-repo-name/
+Lasso-ElasticNet-regression-in-Lung-Cancer/
 ├── NSCLC.ipynb
 ├── README.md
+├── graphs
+   └── All plots on tests and model
+├── models
+   └── keras models on which was trained and tested
 └── data/
-    └── (your datasets)
+    └── GEO datasets
 ```
 
 ## Contributing
